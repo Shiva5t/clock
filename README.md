@@ -1,7 +1,7 @@
 <!DOCTYPE html>  
         <html>  
           <head>  
-            <title>Analog Clockk</title>  
+            <title>Analog Clock</title>  
           </head>  
           <body>  
             <div class="clock-container">  
